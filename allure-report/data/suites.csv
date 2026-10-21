@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12050","@Web end to end flow","","Mon Sep 21 18:28:00 IST 2026","passed","Mon Sep 21 18:28:12 IST 2026","","EtoEPlayWrtLocters.spec.js","",""
+"","6292","@Web playwright locators","","Mon Sep 21 18:28:00 IST 2026","passed","Mon Sep 21 18:28:06 IST 2026","","Locators.spec.js","",""
+"","11473","@Web products test","","Mon Sep 21 18:28:00 IST 2026","passed","Mon Sep 21 18:28:12 IST 2026","","UIbasicsTest.spec.js","",""
+"","10416","@Web products test","","Mon Sep 21 18:28:00 IST 2026","passed","Mon Sep 21 18:28:10 IST 2026","","DropdownRadio.spec.js","",""

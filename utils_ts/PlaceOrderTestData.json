@@ -1,0 +1,14 @@
+[
+    {
+    "userName" : "selenium@hello.com",
+    "password" : "Rahul@123",
+    "productName" : "ZARA COAT 3",
+    "orderPageText" : " Thankyou for the order. "
+    },
+    {
+    "userName" : "selenium@hello.com",
+    "password" : "Rahul@123",
+    "productName" : "ADIDAS ORIGINAL",
+    "orderPageText" : " Thankyou for the order. "
+    }
+]
